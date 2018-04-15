@@ -10,3 +10,4 @@ PARTICLE_FILTER.build
 PARTICLE_FILTER.xcodeproj
 .DS_Store
 Debug
+CMakeCache.txt
